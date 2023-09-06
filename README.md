@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mahsumAli-Alivia
+- 👋 Hi, I’m @mali-alivia
 - 👀 I’m interested in SoftwareDevelopment
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on SoftwareDevelopment using DevOps
